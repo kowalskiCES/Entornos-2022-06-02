@@ -27,6 +27,7 @@ public class Main {
         Agenda Lista = new Agenda();
         Contacto contacto1 = new Contacto("email_1","555 555 551","empleado_1");
         Contacto contacto2 = new Contacto("rmsces2122@gmail.com","555 555 552","Ramón");
+        Contacto contacto3 = new Contacto("pepe@gmail.com", "555 555 553", "Pepe");
         //Contacto contacto2 = new Contacto(null,null,null);
         System.out.println("-- Añadiendo los contactos ---");
             try {
