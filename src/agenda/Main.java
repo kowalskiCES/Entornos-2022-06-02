@@ -1,8 +1,8 @@
 /*
- * Grupo        :
- * Alumno       :
- * Numero Exp   :
- * Fecha
+ * Grupo        : GDAM 2-1
+ * Alumno       : Alberto Ramos 
+ * Numero Exp   : 7258
+ * Fecha		: 2022/06/02
  */
 
 
